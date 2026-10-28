@@ -17,9 +17,3 @@ java -cp out Main
 - Every instance field has a getter and setter.
 - All motorcycle details printed using getters.
 - Each Java file includes the required documentation header.
-
-## Screenshot
-After running in IntelliJ, take a screenshot of the Run window and save it as `capture/MotorcycleOutput.png`. Commit and push this image with the rest of the project.
-
-## Submission
-Create a GitHub repository named `lab1_5Feliciani`, push the files, invite `joeoakes` as a collaborator in repository Settings > Collaborators, and submit the repository URL.
